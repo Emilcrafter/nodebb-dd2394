@@ -1,3 +1,8 @@
+Work by Group 11: Ansh Bhalla, Beata Johansson, Emil Franzell.
+
+The report and documentation files are located in **report** directory.
+
+
 # ![NodeBB](public/images/sm-card.png)
 
 [![Workflow](https://github.com/NodeBB/NodeBB/actions/workflows/test.yaml/badge.svg)](https://github.com/NodeBB/NodeBB/actions/workflows/test.yaml)
