@@ -2,6 +2,7 @@ Work by Group 11: Ansh Bhalla, Beata Johansson, Emil Franzell.
 
 The report and documentation files are located in **report** directory.
 
+Link to Group 11 on canvas: https://canvas.kth.se/groups/209120
 
 # ![NodeBB](public/images/sm-card.png)
 
